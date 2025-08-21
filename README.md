@@ -26,3 +26,8 @@ Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto e
 - [SQL interactivo](https://sqlinteractivo.desafiolatam.com/)
 - [Cheatset](https://docs.z2h.site/blog/sql-cheat-sheet/)
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+
+
+### **Aprender Estadistica**
+
+- [3D one Brown](https://www.3blue1brown.com/)
