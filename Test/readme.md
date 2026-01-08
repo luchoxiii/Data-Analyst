@@ -45,3 +45,10 @@ Este dataset contiene coordenadas de diferentes lugares de interés.
 ---
 
 ### 📘 Examen 3
+
+Es un ejercicio teorico sobre analisis de datos & Powerbi, la notebook a hacer referencia es Ejercicio N2.
+
+---
+
+### 📘 Examen 4
+
