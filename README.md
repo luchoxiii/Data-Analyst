@@ -4,6 +4,9 @@ Personal proyects, books, documentation, other thinks about data analist.
 # Guía para aprender SQL y Excel
 
 Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto en forma de canales de YouTube como de páginas web. Si deseas mejorar tus habilidades en estos temas, estos recursos te proporcionarán una base sólida y material adicional para profundizar.
+<img width="377" height="439" alt="image" src="https://github.com/user-attachments/assets/409c709c-89e5-48c6-bc01-63bd645eddcc" />
+
+
 
 ---
 
