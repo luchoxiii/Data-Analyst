@@ -52,3 +52,10 @@ Es un ejercicio teorico sobre analisis de datos & Powerbi, la notebook a hacer r
 
 ### 📘 Examen 4
 
+Es un ejercicio practico, que el enunciado esta en Ejercicio N3, y el dataset son el csv: Productos.csv, Regiones.csv, Usuarios.csv y Ventas.csv.
+
+
+---
+
+### 📘 Examen 5
+
