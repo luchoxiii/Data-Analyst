@@ -5,6 +5,11 @@ Personal proyects, books, documentation, other thinks about data analist.
 
 Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto en forma de canales de YouTube como de páginas web. Si deseas mejorar tus habilidades en estos temas, estos recursos te proporcionarán una base sólida y material adicional para profundizar.
 
+- [Datasets](https://github.com/luchoxiii/Data-Analyst/tree/main/Datasets)
+- [Tableau](https://github.com/luchoxiii/Data-Analyst/tree/main/Tableau)
+- [PowerBI](https://github.com/luchoxiii/Data-Analyst/tree/main/PowerBI)
+- [Apuntes](https://github.com/luchoxiii/Data-Analyst/tree/main/Apuntes)
+- [Examenes](https://github.com/luchoxiii/Data-Analyst/tree/main/Test)
 
 <img width="377" height="439" alt="image" src="https://github.com/user-attachments/assets/409c709c-89e5-48c6-bc01-63bd645eddcc" />
 
@@ -17,6 +22,8 @@ Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto e
  
 
 ### **Canales de YouTube:**
+
+#### Español
 
 - [Clinica PostgreSQL](https://www.youtube.com/@clinicapostgresql7861/featured)
 - [Miguel Rojas](https://www.youtube.com/@MiguelRojas/videos)
