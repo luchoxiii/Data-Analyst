@@ -28,6 +28,8 @@ Esta es una recopilación de recursos útiles para aprender SQL y Excel, tanto e
 - [Clinica PostgreSQL](https://www.youtube.com/@clinicapostgresql7861/featured)
 - [Miguel Rojas](https://www.youtube.com/@MiguelRojas/videos)
 - [Comunidad Numerica](https://www.youtube.com/@comunicacionnumerica/videos)
+- [Comunicacion numerica](https://www.youtube.com/@comunicacionnumerica)
+- [El loco de los datos](https://www.youtube.com/@ElLocodelosDatos/videos) 
 
 ### **Páginas web:**
 
